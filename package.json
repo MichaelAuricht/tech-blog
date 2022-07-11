@@ -1,5 +1,4 @@
 {
-    "name": "Handlebars_Tech_Blog",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
@@ -8,8 +7,7 @@
       "start": "node server.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jamesthomasbester/Handlebars_Tech_Blog.git"
+      "type": "git"
     },
     "keywords": [],
     "author": "",
