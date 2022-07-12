@@ -2,17 +2,15 @@
 
 ## Description
 
+A simple messageboard style app not unlike twitter or a forum.
+
 ### Functionality
 
-### Development Process
-
-### Installation & Usage Instructions
+Users can create an account, can log in and out, can create posts, can comment on posts, and can view their dashboard which shows only their posts.
 
 ### Technologies Used
 
-### Challenges Encountered
-
-### Directions for Future Development
+handlebars, node, mySQL, express, session, bcrypt, sequelize, javascript, css
 
 ## Screenshot
 
