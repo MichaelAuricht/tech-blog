@@ -2,13 +2,13 @@ const router = require('express').Router();
 const moment = require('moment');
 const { Post, Comments } = require('../../models')
 
-router.get('/', (req, res) =>{
+router.get('/', (req, res) => {
     res.status(200).json('working')
 });
 
 router.post('/:id', async (req, res) => {
-    if(req.session.logged_In){
-        if(req.body){
+    if(req.session.logged_In) {
+        if(req.body) {
             try{
                 const commentData = Comments.create({ 
                     comment_body: req.body.comment_body,

@@ -1,13 +1,13 @@
-.login{
+.login {
   margin: 100px;
   width: 400px;
 }
 
-.input{
+.input {
   margin: 10px 0px;
 }
 
-.post-field{
+.post-field {
   margin: 40px;
 }
 
@@ -15,30 +15,30 @@
   margin: 0 40px;
 }
 
-.subtext{
-  color:darkgray;
+.subtext {
+  color: beige;
   font-size:.8rem;
 }
 
-.comment-section{
-  color: navy;
+.comment-section {
+  color: blue;
   margin-left: 60px;
   margin-right: 60px;
 }
 
-.comment-user{
+.comment-user {
   font-size:.9rem;
 }
-.comment-time{
-  color:darkgray;
+.comment-time {
+  color: beige;
   font-size:.8rem;
 }
-.error-message{
+.error-message {
   display:none;
 }
 
-.error{
+.error {
   display:block;
-  color:crimson;
+  color:orange;
   font-weight: bold;
 }
