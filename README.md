@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple messageboard style app not unlike twitter or a forum.
+A simple messageboard style app not unlike a blog or a forum.
 
 ### Functionality
 
@@ -14,4 +14,7 @@ handlebars, node, mySQL, express, session, bcrypt, sequelize, javascript, css
 
 ## Screenshot
 
+![Tech Blog](./techblogimage.jpg)
+
 ## Links
+
